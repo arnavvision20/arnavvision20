@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnavvision20
 - 👀 I’m interested in GFX & coding
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML & Python
 - 💞️ I’m looking to collaborate on ... nothing lol
 - 📫 How to reach me ... find it urself
 
